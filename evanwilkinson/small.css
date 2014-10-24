@@ -1,0 +1,28 @@
+/* Small */
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 3.5em;
+  }
+
+  li {
+  display: block;
+  width: 100%;
+  }
+
+  #line {
+    display: none;
+  }
+
+  #photographer {
+    margin-top: 100%;
+  }
+
+  #musician {
+    margin-top: 100%;
+  }
+
+  #developer {
+    margin-top: 100%;
+  }
+
+}
